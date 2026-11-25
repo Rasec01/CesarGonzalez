@@ -21,7 +21,7 @@ The thesis code is private until the defence.
 | [Quant-research-framework](https://github.com/Rasec01/Quant-research-framework) | Fama-French five-factor research: factor-tilt portfolios tested walk-forward against the market, with transaction costs |
 | [portfolio-optimizer](https://github.com/Rasec01/portfolio-optimizer) | Mean-variance optimiser: maximum-Sharpe and minimum-variance portfolios, efficient frontier, long-only constraints |
 | [Market-prediction-system](https://github.com/Rasec01/Market-prediction-system) | Random-forest forecasts of five-day returns, tested walk-forward with an embargo and transaction costs |
-| [corporate-distress-model](https://github.com/Rasec01/corporate-distress-model) | Bankruptcy-risk classifier on financial ratios, with leakage-free preprocessing, calibration and SHAP |
+| [credit-risk-pd-model](https://github.com/Rasec01/credit-risk-pd-model) | Probability-of-default model for companies: WoE scorecard, gradient-boosting challenger and a bank-style validation report |
 
 ## Before research
 
